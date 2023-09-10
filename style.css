@@ -20,7 +20,7 @@ p, ul {
 
 /* Stylize the individual type selector */
 
-ul{
+ul {
     list-style-type: none;
     display: flex;
 }
