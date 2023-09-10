@@ -1,9 +1,6 @@
 /* Stylise the list items with the descendant combinator */
 
-ul li {
-    border: 1px solid blue;
-    display: flex;
-}
+
 
 /* Add CSS rules to the class */
 
