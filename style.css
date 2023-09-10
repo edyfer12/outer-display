@@ -20,6 +20,6 @@ p, ul {
 
 /* Add style to the grouping type selectors */
 
-span, li {
+.highlight, li {
     border:1px solid blue;
 }
