@@ -1,7 +1,7 @@
 /* Stylise the list items with the descendant combinator */
 
 ul li {
-    color: blue;
+    border: 1px solid blue;
     display: flex;
 }
 
