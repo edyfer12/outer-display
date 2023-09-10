@@ -18,7 +18,7 @@ p, ul {
     border: 1px solid purple;
 }
 
-/* Add style to the grouping type selectors */
+/* Add style to the grouping selectors */
 
 .highlight, li {
     border:1px solid blue;
