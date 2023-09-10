@@ -10,6 +10,8 @@
 
 * {
     border: 1px solid red;
+    margin:0;
+    padding:0;
 }
 
 /* Add style to the grouping type selectors */
