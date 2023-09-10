@@ -1,8 +1,5 @@
-/* Stylise the list items with the descendant combinator */
-
-
-
 /* Add CSS rules for the individual class */
+
 .highlight {
     display:block;
 }
