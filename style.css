@@ -11,3 +11,9 @@
 * {
     border: 1px solid red;
 }
+
+/* Add style to the grouping type selectors */
+
+p, ul {
+    border: 1px solid purple;
+}
