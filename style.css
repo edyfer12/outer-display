@@ -32,4 +32,7 @@ p, ul {
 
 /* Stylize the individual type selector */
 
-
+ul{
+    list-style-type: none;
+    display: flex;
+}
