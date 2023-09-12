@@ -27,7 +27,11 @@ ul {
 
 /* Stylise type element */
 
-
+div {
+    background-color: grey;
+    height: 500px;
+    width: 700px;
+}
 
 /* Stylise type element */
 
